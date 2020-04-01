@@ -12,14 +12,13 @@ export default function Profile() {
   const [incidents, setIncidents] = useState([]);
   const ongId = localStorage.getItem('ongId');
   const ongName = localStorage.getItem('ongName');
-
-  
+    
   useEffect(() =>  {
-    api.get('profile', {
+    api.get('incidents', {
       headers: {
         Authorization: ongId,
-      }
-    }).then( res => {
+      }      
+    }).then( res => {      
       setIncidents(res.data);
     })
   }, [ongId]);
