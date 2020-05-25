@@ -32,6 +32,8 @@ Be The Hero
 ## :rocket: Features
 [//]: # (Add the features of your project here:)
 
+<br />
+<br />
 This app features all the latest tools and practices in mobile development!
 
 - [Node.js](https://nodejs.org/en/)
@@ -40,7 +42,8 @@ This app features all the latest tools and practices in mobile development!
 - [Expo](https://expo.io/)
 
 ## 💻 Getting started
-
+<br />
+<br />
 **🚥 Backend (Node Js)**
 
 Step 1 - Access our application's node server folder with the command: `cd backend`;
@@ -50,9 +53,8 @@ Step 2 - Download the npm packages used in the project with the command: `npm` ,
 Step 3 - Start the server with the command: `npm run dev`, if you prefer yarn run `yarn dev`;
 
 - Node Server is required for both the frontend and the mobile.
-
-
-
+<br />
+<br />
 **💻 Frontend (React Js)**
 
 Step 1 - Access our application's frontend folder with the command: `cd frontend`;
@@ -60,9 +62,8 @@ Step 1 - Access our application's frontend folder with the command: `cd frontend
 Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;
 
 Step 3 - Start the server with the command: `npm run start`, if you prefer yarn run `yarn start`;
-
-
-
+<br />
+<br />
 **📱 Mobile (React Native)**
 
 Step 1 - Access our application's mobile folder with the command: `cd mobile`;
@@ -71,13 +72,15 @@ Step 2 - Download the npm packages used in the project with the command: `npm` ,
 
 Step 3 - Start the server with the command: `npm run start`, if you prefer yarn run `yarn start`;
 
-step 4 - Install Expo App:  <a href"https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR"> android </a> or <a href"https://apps.apple.com/br/app/expo-client/id982107779?l=en"> ios </a>;
+step 4 - Install Expo App: [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR") or [Ios]("https://apps.apple.com/br/app/expo-client/id982107779?l=en");
 
 step 5 -  if you prefer an emulator just click on `run in ios emulator` or `run android emulator` on the expo screen that opened automatically when performing step 3.
 
 - ios emulator just run in Macs.
-
-
+<br />
+<br />
 ## :memo: License
 
+<br />
+<br />
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
