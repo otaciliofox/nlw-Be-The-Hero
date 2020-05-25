@@ -15,8 +15,8 @@
 </p>
 
 <div>
-     <img src="./img/be_the_hero_print1.png" alt="login screenshot" height="50%">
-     <img src="./img/be_the_hero_print2.png" alt="form screenshot" height="50%">
+     <img src="./img/be_the_hero_print1.png" alt="login screenshot" height="200">
+     <img src="./img/be_the_hero_print2.png" alt="form screenshot" height="200">
      <img src="./img/be_the_hero_print3.png" alt="dashboard screenshot" height="300">
      <img src="./img/be_the_hero_print4.png" alt="new case screenshot" height="300">
      <img src="./img/be_the_hero_print5.png" alt="mobile splash screen screenshot" height="300">
