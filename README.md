@@ -1,13 +1,11 @@
 <h1 align="center">
-<br>
-  <img src="./frontend/src/assets/logo.svg" alt="Be The Hero" width="120">
-<br>
-<br>
-Be The Hero
+     <img src="./frontend/src/assets/logo.svg" alt="Be The Hero" width="400">
 </h1>
 
+<h3 align="center">
+  Be The Hero
+</h3>
 <blockquote align="center">“Do you want to be a hero?!”</blockquote>
-
 <p align="center">Application that allows ONGs to register cases to be helped by sponsors (heroes).</p>
 
 <p align="center">
