@@ -31,6 +31,7 @@ Be The Hero
 
 ## :rocket: Features
 [//]: # (Add the features of your project here:)
+
 This app features all the latest tools and practices in mobile development!
 
 - [Node.js](https://nodejs.org/en/)
@@ -42,17 +43,19 @@ This app features all the latest tools and practices in mobile development!
 
 **🚥 Backend (Node Js)**
 
-Step 1 - Access our application's node server folder with the command: `cd backend`
+Step 1 - Access our application's node server folder with the command: `cd backend`;
 
 Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;
 
 Step 3 - Start the server with the command: `npm run dev`, if you prefer yarn run `yarn dev`;
 
-- Node Server is required for both the frontend and the mobile
+- Node Server is required for both the frontend and the mobile.
+
+
 
 **💻 Frontend (React Js)**
 
-Step 1 - Access our application's node server folder with the command: `cd frontend`
+Step 1 - Access our application's frontend folder with the command: `cd frontend`;
 
 Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;
 
@@ -62,7 +65,7 @@ Step 3 - Start the server with the command: `npm run start`, if you prefer yarn 
 
 **📱 Mobile (React Native)**
 
-Step 1 - Access our application's node server folder with the command: `cd mobile`
+Step 1 - Access our application's node server folder with the command: `cd mobile`;
 
 Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;
 
