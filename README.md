@@ -9,6 +9,12 @@
 <p align="center">Application that allows ONGs to register cases to be helped by sponsors (heroes).</p>
 
 <p align="center">
+  <a href="#rocket-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
+
+<p align="center">
   <a href="https://opensource.org/licenses/MIT" >
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
@@ -25,14 +31,6 @@
      <img src="./img/be_the_hero_print8.png" alt="whatsapp contact screenshot" height="350">
      <img src="./img/be_the_hero_print9.png" alt="email contact screenshot" height="350">
 </div>
-
-
-
-<p align="center">
-  <a href="#rocket-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-</p>
 
 ## :rocket: Features
 [//]: # (Add the features of your project here:)
