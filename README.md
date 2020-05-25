@@ -9,8 +9,8 @@ Be The Hero
 <p align="center">Application that allows ONGs to register cases to be helped by sponsors (heroes), do you want to be a hero?</p>
 
 <p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  <a href="LICENSE" >
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
 </p>
 
