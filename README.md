@@ -6,7 +6,9 @@
 Be The Hero
 </h1>
 
-<p align="center">Application that allows ONGs to register cases to be helped by sponsors (heroes), do you want to be a hero?</p>
+<blockquote align="center">“Do you want to be a hero?!”</blockquote>
+
+<p align="center">Application that allows ONGs to register cases to be helped by sponsors (heroes).</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT" >
