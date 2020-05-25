@@ -94,7 +94,7 @@ step 5 -  if you prefer an emulator just click on `run in ios emulator` or `run 
 ## :memo: License
 
 <br />
-This project is licensed under the MIT License, see the - [page](https://opensource.org/licenses/MIT) for details.
+This project is licensed under the MIT License - see the details in <a href="https://opensource.org/licenses/MIT">page</a>.
 
 ---
 Make with :purple_heart:
