@@ -42,11 +42,11 @@ This app features all the latest tools and practices in mobile development!
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## 💻 Getting started
+## 📢 Getting started
 
 <br />
 
-**🚥 Backend (Node Js)**
+**📡 Backend (Node Js)**
 
 <br />
 
@@ -69,7 +69,7 @@ Step 1 - Access our application's frontend folder with the command: `cd frontend
 
 Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;
 
-Step 3 - Start the server with the command: `npm run start`, if you prefer yarn run `yarn start`;
+Step 3 - Start the application with the command: `npm run start`, if you prefer yarn run `yarn start`;
 
 <br />
 <br />
@@ -82,7 +82,7 @@ Step 1 - Access our application's mobile folder with the command: `cd mobile`;
 
 Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;
 
-Step 3 - Start the server with the command: `npm run start`, if you prefer yarn run `yarn start`;
+Step 3 - Start the application with the command: `npm run start`, if you prefer yarn run `yarn start`;
 
 step 4 - Install Expo App: [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR) or [Ios](https://apps.apple.com/br/app/expo-client/id982107779?l=en);
 
