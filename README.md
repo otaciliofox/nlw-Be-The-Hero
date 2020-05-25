@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -48,7 +48,7 @@ This app features all the latest tools and practices in mobile development!
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## 📢 Getting started
+## 📢 How to use
 
 <br />
 
