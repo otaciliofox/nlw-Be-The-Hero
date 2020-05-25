@@ -1,9 +1,9 @@
 <h1 align="center">
 <br>
-  <img src="./frontend/src/assets/logo.svg" alt="YOUR_PROJECT_NAME" width="120">
+  <img src="./frontend/src/assets/logo.svg" alt="Be The Hero" width="120">
 <br>
 <br>
-BeTheHero
+Be The Hero
 </h1>
 
 <p align="center">Application that allows ONGs to register cases to be helped by sponsors (heroes), do you want to be a hero?</p>
@@ -23,32 +23,58 @@ BeTheHero
 -->
 <hr />
 
-## Features
+<p align="center">
+  <a href="#rocket-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
+
+## :rocket: Features
 [//]: # (Add the features of your project here:)
 This app features all the latest tools and practices in mobile development!
 
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
-- ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
-- 💹 **Node Js** — A web framework for Node Js
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
 
-## Getting started
+## 💻 Getting started
 
-** Backend Node (express) ** -
+**🚥 Backend (Node Js)**
 
-Step 1 - Access our application's node server folder with the command: "cd backend";
-<br>
-Step 2 - Download the npm packages used in the project with the command: "npm", if you prefer yarn execute "yarn";
-<br>
-Step 3 - Start the server with the command: "npm run dev", if you prefer yarn run "yarn dev";
+Step 1 - Access our application's node server folder with the command: `cd backend`
 
-* Node Server is required for both the frontend and the mobile
+Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;
 
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
-- ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
-- 💹 **Node Js** — A web framework for Node Js
+Step 3 - Start the server with the command: `npm run dev`, if you prefer yarn run `yarn dev`;
+
+- Node Server is required for both the frontend and the mobile
+
+**💻 Frontend (React Js)**
+
+Step 1 - Access our application's node server folder with the command: `cd frontend`
+
+Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;
+
+Step 3 - Start the server with the command: `npm run start`, if you prefer yarn run `yarn start`;
 
 
 
-## License
+**📱 Mobile (React Native)**
+
+Step 1 - Access our application's node server folder with the command: `cd mobile`
+
+Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;
+
+Step 3 - Start the server with the command: `npm run start`, if you prefer yarn run `yarn start`;
+
+step 4 - Install Expo App:  <a href"https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR"> android </a> or <a href"https://apps.apple.com/br/app/expo-client/id982107779?l=en"> ios </a>;
+
+step 5 -  if you prefer an emulator just click on `run in ios emulator` or `run android emulator` on the expo screen that opened automatically when performing step 3.
+
+- ios emulator just run in Macs.
+
+
+## :memo: License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
