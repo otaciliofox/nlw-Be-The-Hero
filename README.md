@@ -17,8 +17,8 @@
 <div>
      <img src="./img/be_the_hero_print1.png" alt="login screenshot" width="440">
      <img src="./img/be_the_hero_print2.png" alt="form screenshot" width="440">
-     <img src="./img/be_the_hero_print3.png" alt="dashboard screenshot" width="435">
-     <img src="./img/be_the_hero_print4.png" alt="new case screenshot" width="435">
+     <img src="./img/be_the_hero_print3.png" alt="dashboard screenshot" width="440">
+     <img src="./img/be_the_hero_print4.png" alt="new case screenshot" width="440">
      <img src="./img/be_the_hero_print5.png" alt="mobile splash screen screenshot" height="350">
      <img src="./img/be_the_hero_print6.png" alt="mobile dashboard screenshot" height="350">
      <img src="./img/be_the_hero_print7.png" alt="mobile case details screenshot" height="350">
