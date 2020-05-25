@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
+  <img src="./frontend/src/assets/logo.svg" alt="YOUR_PROJECT_NAME" width="120">
 <br>
 <br>
 BeTheHero
