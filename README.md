@@ -8,7 +8,6 @@
 <blockquote align="center">“Do you want to be a hero?!”</blockquote>
 <p align="center">Application that allows ONGs to register cases to be helped by sponsors (heroes).</p>
 
-<hr />
 <p align="center">
   <a href="https://opensource.org/licenses/MIT" >
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
