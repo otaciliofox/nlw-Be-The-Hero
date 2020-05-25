@@ -9,7 +9,7 @@
 <p align="center">Application that allows ONGs to register cases to be helped by sponsors (heroes).</p>
 
 <p align="center">
-  <a href="#rocket-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
@@ -35,7 +35,7 @@
 <br />
 <br />
 
-## :rocket: Features
+## :rocket: Technologies
 [//]: # (Add the features of your project here:)
 
 <br />
