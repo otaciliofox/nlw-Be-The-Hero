@@ -35,6 +35,7 @@ Be The Hero
 <br />
 This app features all the latest tools and practices in mobile development!
 <br />
+<br />
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
