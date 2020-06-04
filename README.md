@@ -86,7 +86,7 @@ Step 3 - Start the application with the command: `npm run start`, if you prefer 
 
 Step 1 - Access our application's mobile folder with the command: `cd mobile`;
 
-Step 2 - Download the npm packages used in the project with the command: `npm` , if you prefer yarn execute `yarn`;
+Step 2 - Download the npm packages used in the project with the command: `npm install` , if you prefer yarn execute `yarn`;
 
 Step 3 - Start the application with the command: `npm run start`, if you prefer yarn run `yarn start`;
 
