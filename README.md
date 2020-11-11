@@ -25,11 +25,11 @@
      <img src="./img/be_the_hero_print2.png" alt="form screenshot" width="1200">
      <img src="./img/be_the_hero_print3.png" alt="dashboard screenshot" width="1200">
      <img src="./img/be_the_hero_print4.png" alt="new case screenshot" width="1200">
-     <img src="./img/be_the_hero_print5.png" alt="mobile splash screen screenshot" height="385">
-     <img src="./img/be_the_hero_print6.png" alt="mobile dashboard screenshot" height="385">
-     <img src="./img/be_the_hero_print7.png" alt="mobile case details screenshot" height="385">
-     <img src="./img/be_the_hero_print8.png" alt="whatsapp contact screenshot" height="385">
-     <img src="./img/be_the_hero_print9.png" alt="email contact screenshot" height="385">
+     <img src="./img/be_the_hero_print5.png" alt="mobile splash screen screenshot" height="390">
+     <img src="./img/be_the_hero_print6.png" alt="mobile dashboard screenshot" height="390">
+     <img src="./img/be_the_hero_print7.png" alt="mobile case details screenshot" height="390">
+     <img src="./img/be_the_hero_print8.png" alt="whatsapp contact screenshot" height="390">
+     <img src="./img/be_the_hero_print9.png" alt="email contact screenshot" height="390">
 </div>
 
 <br />
